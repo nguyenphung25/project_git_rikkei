@@ -1,7 +1,7 @@
-## Project name: RE Shop Web UI project
+## Project name: Phung&B Shop Web UI project
 
 ## Team members:
 
-### 1. Phung
+### 1. Nguyen Tran Gia Phung
 
-### 2. B
+### 2. Nguoi B
